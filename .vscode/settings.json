@@ -1,0 +1,14 @@
+{
+  "python-envs.pythonProjects": [
+    {
+      "path": "python/email_scrapping_with_beautiful_soup",
+      "envManager": "ms-python.python:venv",
+      "packageManager": "ms-python.python:pip"
+    },
+    {
+      "path": "python/web_scraping_with_beautiful_soup",
+      "envManager": "ms-python.python:venv",
+      "packageManager": "ms-python.python:pip"
+    }
+  ]
+}

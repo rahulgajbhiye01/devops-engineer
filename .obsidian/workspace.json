@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "5af0ad28d83d2c25",
+    "type": "split",
+    "children": [
+      {
+        "id": "8575384674887d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "991cedc00801c113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eae652549f5039fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c41bb519e767457e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e711496d6cd324c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61db1167268a1dc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "761a369dfbd62e75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "ea1bd37cc8e4eb47",
+    "type": "split",
+    "children": [
+      {
+        "id": "f672d2cded72bf2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df64b24776682820",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a44b0f532addf380",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c94d99e6bbe8ca51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36149d0010b62fce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fae0f3d422fb4c60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "991cedc00801c113",
+  "lastOpenFiles": [
+    "Software Developer Engineer.md",
+    "Platform Engineer.md",
+    "DevOps Engineer.md",
+    "python/system-info_script/README.md",
+    "python/system-info_script/pyproject.toml",
+    "python/system-info_script/main.py",
+    "python/system-info_script",
+    "python/system-info_scirpt/README.md",
+    "python/system-info_scirpt/pyproject.toml",
+    "python/system-info_scirpt/main.py",
+    "python/system-info_scirpt",
+    "python/system-info/README.md",
+    "python/system-info/pyproject.toml",
+    "python/system-info/main.py",
+    "python/system-info",
+    "bash/backup/backup.sh",
+    "Scripts/system-info/python/README.md",
+    "Cheatsheet/linux/README.md",
+    "Cheatsheet/git/README.md",
+    "Cheatsheet/docker/README.md",
+    "Cheatsheet/aws_cli_v2/README.md",
+    "scripts/system-info/python/README.md",
+    "cheatsheet/linux/README.md",
+    "cheatsheet/README.md",
+    "cheatsheet/README.md.md",
+    "cheatsheet/git/README.md",
+    "cheatsheet/docker/README.md",
+    "cheatsheet/aws_cli_v2/README.md",
+    "cheatsheet/linux_cheatsheet.md",
+    "cheatsheet/git-cheatsheet.md",
+    "cheatsheet/docker_cheatsheet.md",
+    "aws/ec2/If_ec2_instance_is_not_accessible_over_the_internet.md",
+    "aws/learning.md",
+    "0. content/projects.md",
+    "aws/compute/ec2/scenario_based_questions.md"
+  ]
+}

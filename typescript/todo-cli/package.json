@@ -1,0 +1,34 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rahulgajbhiye01/task-cli#readme",
+  "bugs": {
+    "url": "https://github.com/rahulgajbhiye01/task-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulgajbhiye01/task-cli.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "bin": {
+    "task": "./bin/task.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "start": "tsx src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.0.3",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

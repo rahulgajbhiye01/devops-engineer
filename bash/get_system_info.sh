@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo "--------------------------------------"
+echo "-------------System Info--------------"
+echo "--------------------------------------"
+
+echo "Hostname: $(hostname)"
+echo "Operating System: $(uname -o)"
+echo "Kernel Version: $(uname -r)"
+echo "Architecture: $(uname -m)"
+echo "Uptime: $(uptime -p)"
+echo "CPU Information: $(lscpu | grep 'Model name' | awk -F: '{print $2}')"
+echo "Total Memory: $(free -h | grep 'Memory' | awk '{print $2}')"
+echo "Available Memory: $(free -h | grep 'Memory' | awk '{print $7}')"
+echo "Disk Usage: $(df -h / | tail -1 | awk '{print $5}') used"
+echo "IP Address: $(hostname -I | awk '{print $1}')"
+echo "MAC Address: $(ip link show | grep 'ether' | awk '{print $2}')"
+echo "Logged in Users: $(who | wc -l)"
+echo "Running Processes: $(ps aux | wc -l)"
+echo "--------------------------------------"   
