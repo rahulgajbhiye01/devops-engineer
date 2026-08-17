@@ -1,0 +1,19 @@
+{
+  "name": "experiment",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sns:email": "tsx 01-sns-email/publish.ts",
+    "sns:sqs:publish": "tsx 02-sns-sqs/publish.ts",
+    "sns:sqs:consume": "tsx 02-sns-sqs/consume.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.1111.0",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  }
+}
